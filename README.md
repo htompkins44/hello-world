@@ -1,3 +1,2 @@
 # hello-world
-practice
-changes
+Created new branch and changed hello world.
