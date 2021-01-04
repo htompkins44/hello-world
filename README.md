@@ -1,2 +1,2 @@
-# hello-world
-Created new branch and changed hello world.
+# hello world
+Removed both changes from Hunter_branch and Test_branch
